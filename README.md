@@ -2,7 +2,7 @@
 
 Test project for itstep academy.
 
-##information for setup.
+## information for setup.
 
 - git clone 
 - create database php+MySQL (database name - testphp)
