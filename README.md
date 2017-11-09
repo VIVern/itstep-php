@@ -1,6 +1,12 @@
-# [Start Bootstrap - Shop Homepage](https://startbootstrap.com/template-overviews/shop-homepage/)
+# test php shop
 
-[Shop Homepage](http://startbootstrap.com/template-overviews/shop-homepage/) is a basic HTML online store homepage template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+Test project for itstep academy.
+
+##information for setup.
+
+- git clone 
+- create database php+MySQL (database name - testphp)
+- import testphp.sql to database
 
 ## Preview
 
