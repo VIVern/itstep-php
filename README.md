@@ -14,4 +14,5 @@ Test project for itstep academy.
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-shop-homepage/)**
 
-# master edition
+### worker_1
+
