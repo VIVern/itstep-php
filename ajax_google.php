@@ -17,6 +17,7 @@ while($prod=mysqli_fetch_array($adr)){
   if(copy($src, $dir.$newfile)){
     $img_dir = '/'.'uploads/'.$newfile;
     $query1="UPDATE catalogs SET picture='$img_dir' WHERE id=".$prod['id'];
+    $adr1 = mysqli_query($db_con, $query1);
   } else {
     echo 'не удалось записать'.$src;
   };
