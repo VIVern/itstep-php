@@ -17,6 +17,7 @@
 
     <!-- Custom styles for this template -->
     <link href="css/shop-homepage.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css">
 
   </head>
 
@@ -56,13 +57,16 @@
               <a class="nav-link" href="static.php?url=index">Hello</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="static.php?url=about_us">About</a>
+              <a class="nav-link modalMenu" href="static.php?url=about_us">About</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="static.php?url=services">Services</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="static.php?url=contacts">Contact</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="parse.php">Parse</a>
             </li>
           </ul>
         </div>
